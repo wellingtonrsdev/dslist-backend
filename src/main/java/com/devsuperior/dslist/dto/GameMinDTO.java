@@ -4,7 +4,7 @@ import com.devsuperior.dslist.entities.Game;
 
 public class GameMinDTO {
 
-	private long id;
+	private Long id;
 	private String title;
 	private Integer year;
 	private String imgUrl;
